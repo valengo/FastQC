@@ -1,0 +1,7 @@
+name: FastQC
+channels:
+  - defaults
+dependencies:
+  - fastqc
+  - multiqc
+prefix: /home/valengo/miniconda3/envs/FastQC
